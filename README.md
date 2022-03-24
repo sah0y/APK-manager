@@ -1,2 +1,1 @@
-# APK manager
- 
+To make the script work properly you must have java installed
